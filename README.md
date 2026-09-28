@@ -1,6 +1,6 @@
 # Ali Almohsin
 
-Mobile application developer in Al-Ahsa. Flutter, in Arabic and English.
+Mobile application developer in the Eastern Region. Flutter, in Arabic and English.
 
 **Portfolio:** https://aliazxs.github.io/ali-almohsin/
 
